@@ -1,0 +1,9 @@
+# Personal toolkit symlinks — local config, not for the repo
+.claude
+.env
+.mcp.json
+
+# Private kit PDF — marked "don't share" by its author
+Fable5_Skills_DM_Guide.pdf
+
+.DS_Store
